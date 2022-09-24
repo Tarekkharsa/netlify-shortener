@@ -1,7 +1,3 @@
 /go https://google.com
-/example https://example.com/changed-hooray
-/foo https://example.com/foo
-/demo https://www.youtube.com/watch?v=HL6paXyx6hM
-/edit https://github.com/kentcdodds/netlify-shortener-example/edit/master/_redirects
-
-/\* https://google.com
+/no https://www.notion.so/Study-Adding-New-Features-392e0988fa5948f498b63f6c50698ee4
+/git https://gitlab.com/tarekkh1997
