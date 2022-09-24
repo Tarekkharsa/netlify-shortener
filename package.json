@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://shortener-demo.netlify.com",
+  "private": true,
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "author": "Tarek Kharsa",
+  "license": "MIT",
+  "dependencies": {
+    "netlify-shortener": "^2.4.0"
+  }
+}
